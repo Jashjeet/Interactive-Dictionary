@@ -1,2 +1,2 @@
 # Interactive-Dictionary
-python code for interactive dictionary
+Python code for interactive dictionary.
